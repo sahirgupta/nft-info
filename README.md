@@ -14,7 +14,7 @@ npm i nft-info
 ```js
 const nftInfo = require('nft-info')
 
-const collection = 'urlCollectioNname' //Make sure to enter the collection url name properly. This is the part after the https://opensea.io/collection/
+const collection = 'urlCollectionNname' //Make sure to enter the collection url name properly. This is the part after the https://opensea.io/collection/
 
 nftInfo.getFloorPrice(collection) //console.logs the floor price for the inputted collection
 nftInfo.getMarketCap(collection) //console.logs the market cap for the inputted collection
