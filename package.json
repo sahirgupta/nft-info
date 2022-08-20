@@ -1,0 +1,36 @@
+{
+  "name": "nft-info",
+  "version": "1.0.5",
+  "description": "Get info on nft collections on Opensea",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YeetDev1/nft-info.git"
+  },
+  "keywords": [
+    "nft",
+    "crypto",
+    "floorprice",
+    "marketcap",
+    "numberofowners",
+    "totalnumber",
+    "totalsales",
+    "totalvolume",
+    "yeet",
+    "fatty",
+    "pickle"
+  ],
+  "author": "YeetDev1",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YeetDev1/nft-info/issues"
+  },
+  "homepage": "https://github.com/YeetDev1/nft-info#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "nft-info": "^1.0.5"
+  }
+}
